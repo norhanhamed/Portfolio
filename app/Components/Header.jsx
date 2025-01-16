@@ -16,7 +16,7 @@ export default function Header() {
                     <a href="#contact" className='flex items-center gap-2 text-white bg-black border border-white px-10 py-3 rounded-full'>
                         Contact Me <Image src={assets.right_arrow_white} alt='' className='w-4' />
                     </a>
-                    <a href="/sample-resume.pdf" className='flex items-center gap-2 border border-gray-500 px-10 py-3 rounded-full'>
+                    <a href="/Norhan-Hamed-CV.pdf" className='flex items-center gap-2 border border-gray-500 px-10 py-3 rounded-full'>
                         my resume <Image src={assets.download_icon} alt='' className='w-4' />
                     </a>
                 </div>

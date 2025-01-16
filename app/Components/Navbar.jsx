@@ -25,7 +25,6 @@ export default function Navbar() {
     }, [])
     return (
         <>
-
             <nav className={`fixed w-full flex items-center justify-between z-50 px-5 lg-px-8 xl-px-[8%] py-4 ${isScroll ? "bg-white text-darkTheme bg-opacity-50 backdrop-blur-lg shadow-sm" : ""}`}>
                 <a href="#top" >  {/* logo */}
                     {isScroll ? (
