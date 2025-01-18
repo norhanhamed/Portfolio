@@ -98,11 +98,11 @@ export const workData = [
         demo_link : "https://norhanhamed.github.io/Movies/"
     },
     {
-        title: 'FreshCart project',
-        description: 'React app',
-        bgImage: '/work-1.png',
-        git_link: 'https://github.com/norhanhamed/FreshCart',
-        demo_link: ' https://norhanhamed.github.io/FreshCart/'
+        title: 'Weather project',
+        description: 'Next.JS app',
+        bgImage: '/work-5.png',
+        git_link: 'https://github.com/norhanhamed/Weather-App',
+        demo_link: 'https://norhanhamed.github.io/Weather-App/'
     },
     {
         title: 'Movies project',
