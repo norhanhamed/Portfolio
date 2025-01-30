@@ -31,7 +31,7 @@ import web_icon from './web-icon.png';
 import mobile_icon from './mobile-icon.png';
 import graphics_icon from './graphics-icon.png';
 import right_arrow from './right-arrow.png';
-import send_icon from './send-icon.png';
+import send from './send.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 import responsive_icon from './responsive_icon.png'
@@ -77,7 +77,7 @@ export const assets = {
     mobile_icon,
     graphics_icon,
     right_arrow,
-    send_icon,
+    send,
     right_arrow_bold,
     right_arrow_bold_dark
 };
@@ -98,18 +98,39 @@ export const workData = [
         demo_link : "https://norhanhamed.github.io/Movies/"
     },
     {
-        title: 'Weather project',
-        description: 'Next.JS app',
-        bgImage: '/work-5.png',
-        git_link: 'https://github.com/norhanhamed/Weather-App',
-        demo_link: 'https://norhanhamed.github.io/Weather-App/'
+        title: 'Real-Estate project',
+        description: 'Recat app',
+        bgImage: '/work-6.png',
+        git_link: 'https://github.com/norhanhamed/real-estate',
+        demo_link: 'https://norhanhamed.github.io/real-estate/'
     },
     {
-        title: 'Movies project',
+        title: 'Weather project ',
         description: 'React app',
-        bgImage: '/work-2.png',
-        git_link: "https://github.com/norhanhamed/Movies",
-        demo_link : "https://norhanhamed.github.io/Movies/"
+        bgImage: '/work-5.png',
+        git_link: "https://github.com/norhanhamed/Weather-App",
+        demo_link : " https://norhanhamed.github.io/Weather-App/"
+    },
+    {
+        title: 'Weather project ',
+        description: 'Html css app',
+        bgImage: '/work-7.png',
+        git_link: "https://github.com/norhanhamed/Kasper-app",
+        demo_link : " https://norhanhamed.github.io/Kasper-app/"
+    },
+    {
+        title: 'platform project ',
+        description: 'Html css app',
+        bgImage: '/work-8.png',
+        git_link: "https://github.com/norhanhamed/Elzero-platform",
+        demo_link : "https://norhanhamed.github.io/Elzero-platform/"
+    },
+    {
+        title: 'platform project ',
+        description:'Html css app',
+        bgImage: '/work-9.png',
+        git_link: "https://github.com/norhanhamed/furniture",
+        demo_link : "https://norhanhamed.github.io/furniture/"
     },
 ]
 

@@ -1,5 +1,5 @@
 'use client'
-import { assets, infoList, serviceData, toolsData, workData } from '@/assets/assets'
+import { assets, infoList, serviceData, toolsData, workData  } from '@/assets/assets'
 import React from 'react'
 import Image from 'next/image'
 
@@ -30,7 +30,7 @@ export default function Work() {
 
                                     </div>
                                     <div className=' flex justify-center items-center shadow-[2px_2px_0_#000] group-hover:bg-lime-300 transition border border-black rounded-full aspect-square w-9 '>
-                                        <Image src={assets.send_icon} alt='send-icon' className='w-5' />
+                                        <Image src={assets.send} alt='send-icon' className='w-5' />
                                     </div>
                                 </div>
                             </div>
