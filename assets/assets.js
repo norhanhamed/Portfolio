@@ -127,7 +127,7 @@ export const workData = [
     },
     {
         title: 'platform project ',
-        description:'Html css app',
+        description: 'Html css app',
         bgImage: '/work-9.png',
         git_link: "https://github.com/norhanhamed/furniture",
         demo_link : "https://norhanhamed.github.io/furniture/"
